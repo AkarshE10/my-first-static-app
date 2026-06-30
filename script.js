@@ -1,0 +1,1 @@
+document.getElementById("msg").innerText = "JavaScript is loaded successfully!";
